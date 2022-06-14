@@ -1,0 +1,26 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Reader's Buffet",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manojbastakoti/bookstore.git"
+  },
+  "author": "manojbastakoti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manojbastakoti/bookstore/issues"
+  },
+  "homepage": "https://github.com/manojbastakoti/bookstore#readme",
+  "devDependencies": {
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0",
+    "lite-server": "^2.6.1"
+  }
+}
